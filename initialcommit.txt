@@ -2,4 +2,4 @@ initial commit main branch
 
 git reset --hard origin/main will delete the files and everything that is there after the last pushed commit.
 
-git reset --soft HEAD~ this will get back to previous commit and wont delete any changes that you made in previous commit 
+git reset --soft HEAD~ this will get back to previous commit and wont delete any changes that you made in previous commit. now edit the files and pull the latest branch and push the changes
